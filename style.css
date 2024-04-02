@@ -1,7 +1,5 @@
 /*Header-section*/
-.header-1{
-    
-}
+
 .first-img{
     width: 20vw;
 }
@@ -14,4 +12,11 @@
 .color-card{
     background-color: #F1F1F1;
     height: 80%;
+}
+.image-123{
+    width: 60%;
+    height: 60%;
+}
+.last-div{
+    margin-left: 10px;
 }
